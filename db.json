@@ -1,0 +1,54 @@
+{
+  "productos": [
+    {
+      "name": "Conpacto",
+      "price": "212",
+      "id": 4
+    },
+    {
+      "name": "Jugo de Fresa",
+      "price": "200",
+      "id": 5
+    },
+    {
+      "name": "Tela",
+      "price": 12,
+      "id": 9
+    },
+    {
+      "name": "Tela",
+      "price": 12,
+      "id": 10
+    },
+    {
+      "name": "carbon",
+      "price": 12,
+      "id": 11
+    },
+    {
+      "name": "sabanas",
+      "price": 133,
+      "id": 14
+    },
+    {
+      "name": "Alcohol",
+      "price": 12,
+      "id": 15
+    },
+    {
+      "name": "Malta",
+      "price": 12,
+      "id": 16
+    },
+    {
+      "name": "Carne Bisted",
+      "price": 800,
+      "id": 17
+    },
+    {
+      "name": "Hielo Cubo",
+      "price": 200,
+      "id": 18
+    }
+  ]
+}
